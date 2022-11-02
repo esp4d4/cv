@@ -1,0 +1,53 @@
+  body {
+    background-color: #EAF6F6;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-color: #C9D6DF;
+    border-width: 5px;
+  }
+
+  .samurai {
+    height: 400px;
+    width: 400px;
+  }
+
+  .circular:hover {
+    background-color: gold;
+  }
+
+  #heading:hover {
+    color: gold;
+  }
+
+  h1 {
+    color: #66BFBF;
+  }
+
+  h3 {
+    color: #66BFBF;
+  }
+
+  .index {
+    color: #FF2E63;
+  }
+
+  .education {
+    color: #1A1A40;
+  }
+
+  .social {
+    color: #1A1A40;
+  }
+
+  .circular {
+    border-radius: 100%;
+
+  }
+
+  #heading {
+    color: #557571;
+  }
